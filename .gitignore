@@ -1,0 +1,7 @@
+/contractdb
+/extenddb
+/tmp/
+/.contractdb-tls/
+/contractdb.pid
+/contractdb.toml
+*.key
