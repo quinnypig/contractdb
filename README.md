@@ -1,6 +1,6 @@
 # ContractDB
 
-ContractDB is an authoritative DNS server backed by DynamoDB. It is the inverse of [AWS Labs' ExtendDB](https://github.com/aws-samples/extenddb): instead of putting a DynamoDB API in front of other databases, it puts a DNS interface in front of a DynamoDB table.
+ContractDB is an authoritative DNS server backed by DynamoDB. It is the inverse of [AWS Labs' ExtendDB](https://github.com/ExtendDB/extenddb): instead of putting a DynamoDB API in front of other databases, it puts a DNS interface in front of a DynamoDB table.
 
 Yes, it is a real DNS server. That's not a bug.
 
