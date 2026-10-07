@@ -92,6 +92,8 @@ github.com/aws/aws-sdk-go-v2/service/dynamodb v1.69.1 h1:bKwiQA6SKqFXBO+1IwP/hTw
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.69.1/go.mod h1:Gm+i2GlUsFNlzoBq8VXF44XHbKANn3tV8nYBBp3rN8Q=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.70.0 h1:fgV0Q447Bgc0IPEf1dSl35bLoAxU5wqo2lRgRjJ+bUs=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.70.0/go.mod h1:Gm+i2GlUsFNlzoBq8VXF44XHbKANn3tV8nYBBp3rN8Q=
+github.com/aws/aws-sdk-go-v2/service/dynamodb v1.70.1 h1:kEs6rZI/z6aD9JBIjXzaXA2UyGYqhpQrxDnmcpU9fGA=
+github.com/aws/aws-sdk-go-v2/service/dynamodb v1.70.1/go.mod h1:Gm+i2GlUsFNlzoBq8VXF44XHbKANn3tV8nYBBp3rN8Q=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.17 h1:OvYZOB3qA6zvfdRFiRFRzVSiElMYrz3GdntkXZxlp1o=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.17/go.mod h1:JgR/2Ew50ACfIWau1oeMRX59tMtC0kM+PYQGEaT04cY=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.19 h1:bAdDl/HkGCcGPoe25ToSHEw23VIxt6CT5fLcg111BKg=
