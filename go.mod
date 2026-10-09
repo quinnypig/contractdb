@@ -6,7 +6,7 @@ require (
 	github.com/BurntSushi/toml v1.6.0
 	github.com/aws/aws-sdk-go-v2 v1.47.2
 	github.com/aws/aws-sdk-go-v2/config v1.33.8
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.70.1
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.70.2
 	github.com/miekg/dns v1.1.73
 )
 
@@ -17,7 +17,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.8.5 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.5.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.20 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.13.4 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.13.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/signin v1.10.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.38.3 // indirect
