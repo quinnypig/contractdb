@@ -238,6 +238,8 @@ github.com/aws/aws-sdk-go-v2/service/dynamodb v1.73.1 h1:H8fm6dOTr08vZH4bFc60iSA
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.73.1/go.mod h1:3nRqNS5JBCPn7ovwKmfa4EUp9oLbiP03vMNOLXMvbQw=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.73.2 h1:PG5/cBXyERZPH9qRqW7a1A93+XZDgDLtR2I7GLBdtbc=
 github.com/aws/aws-sdk-go-v2/service/dynamodb v1.73.2/go.mod h1:4ot693SG5hWNzdAjmAKEbNlh+Br36h5A8NKq5E3/mAY=
+github.com/aws/aws-sdk-go-v2/service/dynamodb v1.74.0 h1:DSfi8o1qAb2AQwFwfk4gjOE3R9V+33/V5k/ICYkkSac=
+github.com/aws/aws-sdk-go-v2/service/dynamodb v1.74.0/go.mod h1:tzOEVcpLdi8aqyYUKQkuOVVAOfOgfLA0xEomIUTHIFY=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.17 h1:OvYZOB3qA6zvfdRFiRFRzVSiElMYrz3GdntkXZxlp1o=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.17/go.mod h1:JgR/2Ew50ACfIWau1oeMRX59tMtC0kM+PYQGEaT04cY=
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.19 h1:bAdDl/HkGCcGPoe25ToSHEw23VIxt6CT5fLcg111BKg=
@@ -278,6 +280,8 @@ github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.13.10 h1:MiM
 github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.13.10/go.mod h1:83pAsDqyfSFU0z+L9lZ7wysWaqpnlkKQLqEThoAukAQ=
 github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.13.11 h1:MhG7iPCd2NVLvVO2tGTxZ+oXK2vaRDKvoCuPFqW9CzY=
 github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.13.11/go.mod h1:qXeMG837P0Nzq9JU2cHitOU3fx4RtwFz8Q98RI6XYl4=
+github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.13.12 h1:nQk6qDTBniyqk01UgtxwxTbOf6aWWKmUaB/rPtDOJis=
+github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.13.12/go.mod h1:ztmJJelLp9AwON0L4eTypQ6r1eBAcmTTsDACdSbKGkk=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.38 h1:H/5TI1jqaHsNoDQ60UwvPvJBg4GURkinXI3Qga29t2w=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.38/go.mod h1:PTVFf+XH++7NJOky+RLBYQx0QA5NcaeEYFQ2fsi0nwo=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.1 h1:RmmWQPREQdk9U+PfqeHW3MqZaBaNK7TpV9W3RY+b+7g=
