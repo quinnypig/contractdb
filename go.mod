@@ -6,7 +6,7 @@ require (
 	github.com/BurntSushi/toml v1.6.0
 	github.com/aws/aws-sdk-go-v2 v1.48.0
 	github.com/aws/aws-sdk-go-v2/config v1.33.19
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.74.0
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.74.1
 	github.com/miekg/dns v1.1.73
 )
 
